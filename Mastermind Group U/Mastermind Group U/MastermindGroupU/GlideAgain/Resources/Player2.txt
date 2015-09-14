@@ -1,0 +1,10 @@
+<Glide Version="1.0.7">
+  <Window Name="Player2" Width="320" Height="240" BackColor="A9F5A9">
+				
+				<TextBlock Name="instance353" X="50" Y="50" Width="200" Height="25" Alpha="255" Text="Select Color Code" TextAlign="Left" TextVerticalAlign="Top" Font="5" FontColor="F7FE2E" BackColor="0101DF" ShowBackColor="True"/>
+				<RadioButton Name="r1-1" X="50" Y="100" Width="30" Height="30" Alpha="255" Value="" Checked="False" GroupName="g1" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF"/>
+			    <RadioButton Name="r2-1" X="100" Y="100" Width="30" Height="30" Alpha="255" Value="" Checked="False" GroupName="g1" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r3-1" X="150" Y="100" Width="30" Height="30" Alpha="255" Value="" Checked="False" GroupName="g1" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r4-1" X="200" Y="100" Width="30" Height="30" Alpha="255" Value="" Checked="False" GroupName="g1" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+  </Window>
+</Glide>

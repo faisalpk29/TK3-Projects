@@ -1,0 +1,68 @@
+
+
+
+
+
+
+<Glide Version="1.0.7">
+  <Window Name="MasterMind" Width="320" Height="240" BackColor="A9F5A9">
+
+  
+				<TextBlock Name="txtResult" X="0" Y="5" Width="160" Height="25" Alpha="255" Text="MasterMind" TextAlign="Left" TextVerticalAlign="Top" Font="5" FontColor="0101DF" BackColor="F7FE2E" ShowBackColor="True"/>
+  
+				<RadioButton Name="r1-1" X="10" Y="40" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g1" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF"/>
+			    <RadioButton Name="r2-1" X="30" Y="40" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g1" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r3-1" X="50" Y="40" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g1" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r4-1" X="70" Y="40" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g1" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			
+  				<RadioButton Name="r1-2" X="10" Y="60" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g2" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r2-2" X="30" Y="60" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g2" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r3-2" X="50" Y="60" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g2" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r4-2" X="70" Y="60" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g2" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			
+
+				<RadioButton Name="r1-3" X="10" Y="80" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g3" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r2-3" X="30" Y="80" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g3" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r3-3" X="50" Y="80" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g3" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r4-3" X="70" Y="80" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g3" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			
+ 
+				<RadioButton Name="r1-4" X="10" Y="100" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g4" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r2-4" X="30" Y="100" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g4" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r3-4" X="50" Y="100" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g4" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r4-4" X="70" Y="100" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g4" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+				
+				<RadioButton Name="r1-5" X="10" Y="120" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g5" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r2-5" X="30" Y="120" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g5" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r3-5" X="50" Y="120" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g5" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r4-5" X="70" Y="120" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g5" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+				
+				
+ 				<RadioButton Name="r1-6" X="10" Y="140" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g6" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r2-6" X="30" Y="140" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g6" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r3-6" X="50" Y="140" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g6" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r4-6" X="70" Y="140" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g6" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+				
+				<RadioButton Name="r1-7" X="10" Y="160" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g7" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r2-7" X="30" Y="160" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g7" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r3-7" X="50" Y="160" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g7" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r4-7" X="70" Y="160" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g7" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+				
+  
+  				<RadioButton Name="r1-8" X="10" Y="180" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g8" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r2-8" X="30" Y="180" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g8" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r3-8" X="50" Y="180" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g8" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r4-8" X="70" Y="180" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g8" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+				
+ 				<RadioButton Name="r1-9" X="10" Y="200" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g9" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r2-9" X="30" Y="200" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g9" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r3-9" X="50" Y="200" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g9" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r4-9" X="70" Y="200" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g9" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+				
+				<RadioButton Name="r1-10" X="10" Y="220" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g10" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r2-10" X="30" Y="220" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g10" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r3-10" X="50" Y="220" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g10" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+			    <RadioButton Name="r4-10" X="70" Y="220" Width="20" Height="20" Alpha="255" Value="" Checked="False" GroupName="g10" ShowBackground="True" Color="FFFFFF" OutlineColor="FFFFFF" />
+				
+  </Window>
+</Glide>

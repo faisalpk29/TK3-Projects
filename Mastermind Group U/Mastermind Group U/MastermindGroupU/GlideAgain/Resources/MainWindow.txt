@@ -1,0 +1,6 @@
+<Glide Version="1.0.7">
+  <Window Name="MainWindow" Width="320" Height="240" BackColor="FFFFFF">
+    <Button Name="btn1Player" X="60" Y="25" Width="195" Height="32" Alpha="255" Text="1 Player Mode" Font="4" FontColor="000000" DisabledFontColor="808080" TintColor="000000" TintAmount="0"/>
+    <Button Name="btn2Player" X="60" Y="80" Width="195" Height="32" Alpha="255" Text="2 Player Mode" Font="4" FontColor="000000" DisabledFontColor="808080" TintColor="000000" TintAmount="0"/>
+  </Window>
+</Glide>

@@ -1,0 +1,95 @@
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\le\Mastermind Group U.exe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\be\Mastermind Group U.exe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\le\Mastermind Group U.pdb
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\be\Mastermind Group U.pdb
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\Mastermind Group U.exe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\Mastermind Group U.pdb
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\le\Mastermind Group U.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\le\Mastermind Group U.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\be\Mastermind Group U.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\be\Mastermind Group U.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\Gadgeteer.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GHI.Glide.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GTM.GHIElectronics.Joystick.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GHI.Hardware.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GHI.Usb.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\Gadgeteer.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GHI.Glide.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GTM.GHIElectronics.Joystick.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GHI.Hardware.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GHI.Usb.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\Gadgeteer.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GHI.Glide.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GTM.GHIElectronics.Joystick.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GHI.Hardware.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\LE\GHI.Usb.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\Gadgeteer.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GHI.Glide.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GTM.GHIElectronics.Joystick.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GHI.Hardware.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\BE\GHI.Usb.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\Gadgeteer.DaisyLink.dll
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\Gadgeteer.dll
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GHI.Glide.dll
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.Button.dll
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.DisplayTE35.dll
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.Joystick.dll
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.MulticolorLED.dll
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GHI.Hardware.dll
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GHI.Usb.dll
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\Gadgeteer.pdb
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\Gadgeteer.xml
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\Gadgeteer.DaisyLink.pdb
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\Gadgeteer.DaisyLink.xml
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GHI.Glide.xml
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.Button.pdb
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.Button.xml
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.DisplayTE35.pdb
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.DisplayTE35.xml
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.Joystick.pdb
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.Joystick.xml
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.MulticolorLED.pdb
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.MulticolorLED.xml
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.USBClientDP.pdb
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GHI.Hardware.xml
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\bin\Debug\GHI.Usb.xml
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\obj\Debug\TinyCLR_DebugReferences.cache
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\obj\Debug\GlideAgain.Resources.resources
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\obj\Debug\MastermindGroupU.csproj.GenerateResource.Cache
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\obj\Debug\GlideAgain.Resources.tinyresources
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\obj\Debug\TinyResGen.cache
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\obj\Debug\be\Mastermind Group U.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\obj\Debug\be\Mastermind Group U.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\obj\Debug\le\Mastermind Group U.pe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\obj\Debug\le\Mastermind Group U.pdbx
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\obj\Debug\Mastermind Group U.exe
+F:\Study\SS 15\cn lab\Final\fuly-complete\fuly complete\GlideAgain\GlideAgain\obj\Debug\Mastermind Group U.pdb

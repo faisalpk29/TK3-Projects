@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="Fly Hunter" default="compile" basedir=".">
+    <description>Builds, tests, and runs the project TK1_P1_FHuntGame.</description>
+    
+	<target name="init">
+	      <property name="sourceDir" value="src" />
+	      <property name="outputDir" value="out" />
+	</target>
+
+	<target name="clean" depends="init">
+	      <delete dir="${outputDir}" />
+	   </target>
+	
+	
+	<target name="prepare" depends="clean">
+	    <mkdir dir="${outputDir}" />
+		
+		<copy todir="${outputDir}/Image" >
+			<fileset dir="${sourceDir}/Image" /> 
+		</copy>
+
+		
+	</target>
+	
+	<target name="compile" depends="prepare">
+	     <javac srcdir="${sourceDir}" destdir="${outputDir}"
+	     	includeantruntime="false"/>
+	</target>
+	
+	<target name="runServer">
+		<java classname="Server.GameServerImpl" fork="true">
+			<classpath>
+				<path location="out" />
+			</classpath>
+		</java>
+	</target>
+		
+	<target name="runClient" >
+			<java classname="Client.ClientGUI" fork="true">
+				<classpath>
+					<path location="out" />
+				</classpath>
+			</java>
+		</target>
+	
+</project>
